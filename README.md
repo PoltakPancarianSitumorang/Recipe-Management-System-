@@ -6,7 +6,7 @@ Poltak Pancarian Situmorang Software has decided to develop a recipe management 
 
 2.	Requirements
 
-Because of the simplicity of the functional requirements, the corresponding use cases are not duplicated here, as would be the case in a normal XYZZY design document.
+Because of the simplicity of the functional requirements, the corresponding use cases are not duplicated here, as would be the case in a normal Poltak Pancarian Situmorang design document.
 The purpose of the system is to assist people in recipe selection. A 3 phase development process is envisaged, with the incorporation of recipe details being deferred to a later phase. In the first two phases, the selection process will be restricted to main course recipes.
 A Java desktop application is to be developed, driven by a simple Swing GUI. Interaction between the database and the application is to be via JDBC. The NetBeans IDE is to be used for development. Java DB must be used as the database.
 The initial functional requirements are:
